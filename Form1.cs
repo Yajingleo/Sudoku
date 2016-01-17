@@ -259,7 +259,8 @@ namespace WindowsFormsApplication7
         }
     }
 
-
+//////
+/// The class for generating and solving Sudoku games. 
 
     class SolutionSudoku
     {
